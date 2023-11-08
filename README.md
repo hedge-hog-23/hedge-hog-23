@@ -1,30 +1,29 @@
 <h1 align="center">Hi 👋, I'm SENTHIL</h1>
-<h3 align="center">A passionate front-end web developer, UI/UX Designer , I do photography</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hedge-hog-23&label=Profile%20views&color=0e75b6&style=flat" alt="hedge-hog-23" /> </p>
-
-- 🔭 I’m currently working on **XERO** - Your xerox manager !!
-
-- 🌱 I’m currently learning **react**
-
-- 👯 I’m looking to collaborate on **UI/UX stuffs**
-
-- 📫 How to reach me **naathan2004@gmail.com**
-
-- ⚡ Fun fact **"Blind pro max !! for a reason "**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/senthilnaathan-k" target="blank"><img align="center" src="data:image/png;base64,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" alt="senthilnaathan-k" height="30" width="40" /></a>
-<a href="https://instagram.com/itz.me_senthil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz.me_senthil" height="30" width="40" /></a>
-<a href="https://dribbble.com/sentoman231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sentoman231" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="center">A passionate front-end web developer, <br> UI/UX Designer , <br> I do photography too</h3>
+# 💫 About Me:
+🔭 I’m currently working on XERO - 1st step !!<br><br>🌱 I’m currently learning react<br><br>👯 I’m looking to collaborate on UI/UX stuffs<br><br>📫 How to reach me naathan2004@gmail.com<br><br>⚡ Fun fact "Blind pro max !! for a reason "
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz.me_Senthil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/senthilnaathan-k-7464b6249) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/SENTHILNAATHAN-K) 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hedge-hog-23&" alt="hedge-hog-23" /></p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hedge-hog-23&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hedge-hog-23&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hedge-hog-23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hedge-hog-23" alt="hedge-hog-23" /></a> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hedge-hog-23&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=hedge-hog-23&icon=0&color=7)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
