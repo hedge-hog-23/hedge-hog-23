@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hedge-hog-23" alt="hedge-hog-23" /></a> </p>
 
-- 🔭 I’m currently working on **XERO**
+- 🔭 I’m currently working on **XERO** - Your xerox manager !!
 
 - 🌱 I’m currently learning **react**
 
