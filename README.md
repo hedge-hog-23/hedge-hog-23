@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SENTHIL</h1>
 <h3 align="center">A passionate front-end web developer, <br> UI/UX Designer , <br> I do photography !</h3><br>
  💫 About Me:
-🔭 I’m currently working on XERO - 1st step !!<br><br>🌱 I’m currently learning react native<br><br>👯 I’m looking to collaborate on UI/UX stuffs<br><br>📫 How to reach me naathan2004@gmail.com<br><br>⚡ Fun fact "Blind pro max !! for a reason "
+🔭 I’m currently working on XERO - Your xerox manager !!<br><br>🌱 I’m currently learning react native and firebase <br><br>👯 I’m looking to collaborate on UI/UX stuffs<br><br>📫 How to reach me naathan2004@gmail.com <br><br>⚡ Fun fact "Blind pro max !! for a reason "
 
 
 ## 🌐 Socials:
