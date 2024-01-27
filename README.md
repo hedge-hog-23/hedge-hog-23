@@ -23,6 +23,8 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sentoman_2301?theme=dark&font=IBM%20Plex%20Sans%20Hebrew)
 ---
 [![](https://visitcount.itsvg.in/api?id=hedge-hog-23&icon=0&color=7)](https://visitcount.itsvg.in)
 
