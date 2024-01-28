@@ -14,9 +14,10 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sentoman_2301?theme=dark&font=IBM%20Plex%20Sans%20Hebrew)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hedge-hog-23&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hedge-hog-23&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=hedge-hog-23&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hedge-hog-23&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hedge-hog-23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
