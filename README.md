@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SENTHIL</h1>
-<h3 align="center">A passionate front-end web developer, <br> UI/UX Designer , <br> I do photography !</h3><br>
+<h3 align="center">A passionate front-end web developer, <br> Intermediate UI/UX Designer , <br> I do photography !</h3><br>
  💫 About Me:
-🔭 I’m currently working on YOUR MATE - UX Case study - complete hostel companion <br><br>🌱 I’m currently learning firebase for webapps <br><br>👯 I’m looking to collaborate on UI/UX stuffs<br><br>📫 How to reach me :  <a href = "naathan2004@gmail.com">naathan2004@gmail.com </a><br><br>⚡ Fun fact "Blind pro max !! for a reason "
+🔭 I’m currently working on YOUR MATE - UX Case study - complete hostel companion <br><br>🌱 I’m currently learning React / firebase for webapps <br><br>👯 I’m looking to collaborate on UI/UX stuffs<br><br>📫 How to reach me :  <a href = "naathan2004@gmail.com">naathan2004@gmail.com </a><br><br>⚡ Fun fact "Blind pro max !! for a reason "
 
 
 # 💻 Tech Stack:
