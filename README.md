@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **comparative study of synthetic data and real data on existing models**
 
-- 🌱 I’m currently learning **React and firebase**
-
 - 👯 I’m looking to collaborate on **UI/UX stuffs**
 
 - 🤝 Know more about me [https://linktr.ee/senthilnaathan_k](https://linktr.ee/senthilnaathan_k)
