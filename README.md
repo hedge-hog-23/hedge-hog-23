@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SENTHIL</h1>
 <h3 align="center">A passionate front-end web developer, Intermediate UI/UX Designer , I do photography</h3>
 
-- 🔭 I’m currently working on **Echo Insights - ML Based sentiment tool**
+- 🔭 I’m currently working on **comparative study of synthetic data and real data on existing models**
 
 - 🌱 I’m currently learning **React and firebase**
 
