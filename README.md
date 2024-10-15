@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SENTHIL</h1>
-<h3 align="center">A passionate front-end web developer, Intermediate UI/UX Designer , I do photography</h3>
+<h3 align="center">A passionate UI/UX Designer , I do photography</h3>
 
-- 🔭 I’m currently working on **comparative study of synthetic data and real data on existing models**
+- 🔭 I’m currently working on **flickr a tiny clone !!**
 
-- 👯 I’m looking to collaborate on **UI/UX stuffs**
+- 👯 I’m looking to collaborate on **UI/UX projects and freelances**
 
 - 🤝 Know more about me [https://linktr.ee/senthilnaathan_k](https://linktr.ee/senthilnaathan_k)
 
@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **UI/UX ideas**
 
-- 📫 How to reach me **naathan2004@gamil.com**
+- 📫 How to reach me *naathan2004@gamil.com*
 
-- ⚡ Fun fact **"Blind pro max !! for a reason "**
+- ⚡ Fun fact **"Blind pro max!! for a reason "**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
