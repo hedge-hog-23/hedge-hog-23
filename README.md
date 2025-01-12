@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm SENTHIL</h1>
 <h3 align="center">A passionate UI/UX Designer , I do photography</h3>
 
-- 🔭 I’m currently working on **flickr a tiny clone !!**
+- 🔭 I’m currently working on **Generation of synthetic eye fundus images using GANs**
 
-- 👯 I’m looking to collaborate on **UI/UX projects and freelances**
+- 👯 I’m looking to collaborate on **UI/UX projects and freelance works**
 
-- 🤝 Know more about me [https://linktr.ee/senthilnaathan_k](https://linktr.ee/senthilnaathan_k)
+- 🤝 Take a look at my website [https://linktr.ee/senthilnaathan_k](https://linktr.ee/senthilnaathan_k)
 
 - 👨‍💻 All of my projects are available at [https://github.com/hedge-hog-23](https://github.com/hedge-hog-23)
 
@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/senthilnaathan-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="senthilnaathan-k" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/senthilnaathan-kannappan-7464b6249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senthilnaathan-kannappan-7464b6249" height="30" width="40" /></a>
 <a href="https://instagram.com/itz.me_senthil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz.me_senthil" height="30" width="40" /></a>
-<a href="https://dribbble.com/sentoman231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sentoman231" height="30" width="40" /></a>
+<a href="https://dribbble.com/sentoman231" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" alt="sentoman231" height="30" width="40" /></a>
 <a href="https://www.behance.net/senthilkannapp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="senthilkannapp" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Sentoman_2301/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="senthil23" height="30" width="40" /></a>
 </p>
