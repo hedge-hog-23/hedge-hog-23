@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **UI/UX projects and freelance works**
 
-- 🤝 Take a look at my website [https://linktr.ee/senthilnaathan_k](https://senthil.framer.website/)
+- 🤝 Take a look at my website [https://senthil.framer.website/](https://senthil.framer.website/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/hedge-hog-23](https://github.com/hedge-hog-23)
 
