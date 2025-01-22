@@ -1,8 +1,13 @@
 # 💫 About Me:
-🔭I'm currently working on a project titled : "Generation of synthetic eye fundus images using CLAHE and GANs"<br>👯I'm looking to collaborate on UI and UX Freelances<br>🤝Take a look at my Website : https://senthil.framer.website/<br>🌱All of my projects are available at : https://github.com/hedge-hog-23<br>💬Reach me at : mailto:naathan2004@gmail.com<br>⚡Fun fact : Blind pro max >
+### 🔭I'm currently working on a project titled : "Generation of synthetic eye fundus images using CLAHE and GANs"<br>
+### 👯I'm looking to collaborate on UI and UX Freelances<br>
+### 🤝Take a look at my Website : https://senthil.framer.website/<br>
+### 🌱All of my projects are available at : https://github.com/hedge-hog-23<br>
+### 💬Reach me at : mailto:naathan2004@gmail.com<br>
+### ⚡Fun fact : Blind pro max >
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 <a href="https://linkedin.com/in/senthilnaathan-kannappan-7464b6249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senthilnaathan-kannappan-7464b6249" height="30" width="40" /></a>
 <a href="https://instagram.com/itz.me_senthil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz.me_senthil" height="30" width="40" /></a>
 <a href="https://dribbble.com/sentoman231" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" alt="sentoman231" height="30" width="40" /></a>
