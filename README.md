@@ -10,7 +10,7 @@
 # 🌐 Socials:
 <a href="https://linkedin.com/in/senthilnaathan-kannappan-7464b6249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senthilnaathan-kannappan-7464b6249" height="30" width="40" /></a>
 <a href="https://instagram.com/itz.me_senthil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz.me_senthil" height="30" width="40" /></a>
-<a href="https://dribbble.com/sentoman231" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" alt="sentoman231" height="30" width="40" /></a>
+<a href="https://www.figma.com/@senthilnaathank" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" alt="sentoman231" height="30" width="40" /></a>
 <a href="https://www.behance.net/senthilkannapp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="senthilkannapp" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Sentoman_2301/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="senthil23" height="30" width="40" /></a>
 </p>
