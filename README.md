@@ -41,6 +41,13 @@ I'm based in **Chennai**, currently working at **Hexaware Technologies** in Clou
 ## LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sentoman_2301?theme=dark&font=IBM%20Plex%20Sans%20Hebrew)
 
+## pacman map
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hedge-hog-23/hedge-hog-23/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hedge-hog-23/hedge-hog-23/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hedge-hog-23/hedge-hog-23/output/pacman-contribution-graph.svg">
+</picture>
+
 ## Top Projects
 
 - [blind-75-striver](https://github.com/hedge-hog-23/blind-75-striver): Solutions to 75 leetcode problems. ⭐ 0 Stars | Language: Java | Forks: 0 | Issues: 0
